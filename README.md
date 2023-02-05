@@ -1,9 +1,15 @@
 # Fractals
- An application visualizing the recursive evolution of multiple fractal patterns generation-by-generation
- 
-# Introduction
 
-Welcome to our Fractal playground. You can discover various patterns and play with extra functionalities.
+## Introduction
+
+An application visualizing the recursive evolution of multiple fractal patterns generation by generation:
+
+- Sierpinski triangle
+- Koch fractal (snowflake)
+- Inverse Sierpinski snowflake
+- Recursive tree with adjustable angles and leaf depth
+- Pentaflake
+- Planet system
 
 ## Contents
 	/Algo project report.pdf - the report for this project
